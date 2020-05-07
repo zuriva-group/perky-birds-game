@@ -1,0 +1,1667 @@
+fileFormatVersion: 2
+guid: 610c241c4709b364da16cb58f9e470ee
+timeCreated: 1482349781
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Text Earn Life
+    21300002: Buy 20 Lifes
+    21300004: Buy 500 Lifes
+    21300006: Store Title
+    21300008: Message Title
+    21300010: Text Quit
+    21300012: Credits Title
+    21300014: Alert Title
+    21300016: Buy 50 Lifes
+    21300018: Buy 1000 Lifes
+    21300020: Setting Title
+    21300022: Buy 100 Lifes
+    21300024: Buy 200 Lifes
+    21300026: Text About
+    21300028: Share Title
+    21300030: Life Button
+    21300032: Score
+    21300034: Panel 1
+    21300036: Logo
+    21300038: Play Game Button
+    21300040: Twitter Button
+    21300042: Audio Button
+    21300044: More Button
+    21300046: Facecook Button
+    21300048: Shop Button
+    21300050: Panel 2
+    21300052: Share Button
+    21300054: Main Menu Button
+    21300056: Seeting Button
+    21300058: OK Button
+    21300060: Help Button
+    21300062: Play Small Button
+    21300064: Pause Button
+    21300066: Restart Button
+    21300068: Close Button
+    21300070: Panel 3
+    21300072: Quit Game Button
+    21300074: About Button
+    21300076: Play Video Add Button
+    21300078: Paused
+    21300080: You Lose
+    21300082: Text Best Score
+    21300084: Text Current Score
+    21300086: Score Background
+    21300088: Live Panel
+    21300090: Arrow
+    21300092: Shop Button In Panel
+    21300094: Border
+    21300096: Help Title
+    21300098: Button Deactive
+    21300100: Star
+    21300102: Loading
+    21300104: Loading Base
+    21300106: Loading Progress
+    21300108: Handle
+    21300110: Loading Text
+    21300112: Tap To Start
+    21300114: How To Play Text
+    21300116: Achievements Title
+    21300118: Achievements Button
+    21300120: Twitter Life Earn Button
+    21300122: FB Life Earn Button
+    21300124: Video Add Life Earn Button
+    21300126: Leaderboard Button
+    21300128: Free Life Title
+    21300130: Free Button
+    21300132: Heart
+    21300134: White Box
+    21300136: Panel 3 - 2
+    21300138: Level Button On
+    21300140: Level Button Off
+    21300142: Level Button Star
+    21300144: Check Mark
+    21300146: Fail Mark
+    21300148: Panel Up
+    21300150: Panel
+    21300152: Button World Back
+    21300154: Text Back
+    21300156: Level Button On Empty
+    21300158: Google Play Button
+    21300160: Star Big
+    21300162: Stars Panel
+    21300164: Star Off Biggest
+    21300166: Star On Biggest
+    21300168: Birds On Game Panel
+    21300170: Target Birds On Game Panel
+    21300172: Target Birds Panel 1
+    21300174: Come Birds Panel 1
+    21300176: Target Birds Panel 2
+    21300178: Come Birds Panel 2
+    21300180: Target Birds Panel 3
+    21300182: Target Birds Panel 4
+    21300184: Target Birds Panel 5
+    21300186: Come Birds Panel 3
+    21300188: Come Birds Panel 4
+    21300190: Come Birds Panel 5
+    21300192: Survival Button
+    21300194: Red Plus
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Text Earn Life
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1962
+        width: 402
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -153, y: 1}
+        - {x: -153, y: -37}
+        - {x: -143, y: -43}
+        - {x: 153, y: -43}
+        - {x: 153, y: -7}
+        - {x: 150, y: 1}
+      - - {x: -201, y: 43}
+        - {x: -201, y: 5}
+        - {x: -191, y: -1}
+        - {x: 103, y: -1}
+        - {x: 103, y: 43}
+      - - {x: 102, y: 43}
+        - {x: 102, y: 19}
+        - {x: 107, y: 9}
+        - {x: 111, y: 5}
+        - {x: 200, y: 5}
+        - {x: 201, y: 9}
+        - {x: 201, y: 38}
+        - {x: 192, y: 43}
+    - name: Text Quit
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 456
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 0.5}
+        - {x: -33, y: -14.5}
+        - {x: -33, y: -56.5}
+        - {x: -29, y: -60.5}
+        - {x: 53, y: -60.5}
+        - {x: 105, y: -52.5}
+        - {x: 105, y: -3.5}
+        - {x: 103, y: 0.5}
+      - - {x: -50, y: -4.5}
+        - {x: -97, y: -4.5}
+        - {x: -97, y: -52.5}
+        - {x: -37, y: -52.5}
+        - {x: -34, y: -46.5}
+        - {x: -34, y: -9.5}
+      - - {x: -152, y: 53.5}
+        - {x: -152, y: 2.5}
+        - {x: -66, y: 2.5}
+        - {x: -52, y: 7.5}
+        - {x: -52, y: 50.5}
+        - {x: -55, y: 53.5}
+      - - {x: -52, y: 60.5}
+        - {x: -52, y: 2.5}
+        - {x: 228, y: 2.5}
+        - {x: 228, y: 60.5}
+      - - {x: -188, y: 60.5}
+        - {x: -225, y: 60.5}
+        - {x: -228, y: 54.5}
+        - {x: -228, y: 12.5}
+        - {x: -153, y: 12.5}
+        - {x: -153, y: 51.5}
+        - {x: -168, y: 55.5}
+    - name: Text About
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1498
+        width: 372
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -142, y: -132.5}
+        - {x: -153, y: -133.5}
+        - {x: -153, y: -170.5}
+        - {x: 154, y: -170.5}
+        - {x: 154, y: -134.5}
+        - {x: 146, y: -132.5}
+      - - {x: 125, y: -52.5}
+        - {x: 34, y: -52.5}
+        - {x: 90, y: -51.5}
+        - {x: 100, y: -44.5}
+        - {x: 177, y: -42.5}
+        - {x: 186, y: -35.5}
+        - {x: 186, y: -1.5}
+        - {x: 122, y: 1.5}
+        - {x: 74, y: -8.5}
+        - {x: -4, y: -8.5}
+        - {x: -42, y: -10.5}
+        - {x: -33, y: -5.5}
+        - {x: 6, y: -7.5}
+        - {x: 88, y: -4.5}
+        - {x: 94, y: -3.5}
+        - {x: 100, y: -1.5}
+        - {x: 124, y: 34.5}
+        - {x: 100, y: 42.5}
+        - {x: -106, y: 42.5}
+        - {x: -117, y: 28.5}
+        - {x: -184, y: -2.5}
+        - {x: -186, y: -15.5}
+        - {x: -186, y: -37.5}
+        - {x: -180, y: -41.5}
+        - {x: -153, y: -41.5}
+        - {x: -159, y: -45.5}
+        - {x: -175, y: -86.5}
+        - {x: -117, y: -90.5}
+        - {x: -111, y: -79.5}
+        - {x: -111, y: -63.5}
+        - {x: -111, y: -79.5}
+        - {x: -109, y: -85.5}
+        - {x: -84, y: -92.5}
+        - {x: 28, y: -92.5}
+        - {x: 162, y: -87.5}
+        - {x: 166, y: -67.5}
+        - {x: 157, y: -48.5}
+        - {x: 149, y: -44.5}
+      - - {x: -11, y: 112.5}
+        - {x: -12, y: 96.5}
+        - {x: -8, y: 90.5}
+        - {x: 31, y: 90.5}
+        - {x: 43, y: 99.5}
+        - {x: 43, y: 118.5}
+        - {x: 38, y: 128.5}
+        - {x: -38, y: 128.5}
+        - {x: -40, y: 124.5}
+        - {x: -40, y: 101.5}
+        - {x: -33, y: 90.5}
+        - {x: -21, y: 90.5}
+        - {x: -15, y: 94.5}
+        - {x: -13, y: 105.5}
+        - {x: -13, y: 107.5}
+        - {x: -11, y: 110.5}
+      - - {x: 109, y: 170.5}
+        - {x: -103, y: 170.5}
+        - {x: -108, y: 165.5}
+        - {x: -108, y: 140.5}
+        - {x: -107, y: 134.5}
+        - {x: 104, y: 134.5}
+        - {x: 110, y: 137.5}
+        - {x: 110, y: 168.5}
+    - name: Score
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1258
+        width: 300
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 54.5}
+        - {x: -136, y: 54.5}
+        - {x: -150, y: 39.5}
+        - {x: -150, y: -34.5}
+        - {x: -146, y: -44.5}
+        - {x: -131, y: -54.5}
+        - {x: 132, y: -54.5}
+        - {x: 150, y: -43.5}
+        - {x: 150, y: 25.5}
+        - {x: 124, y: 45.5}
+    - name: Play Game Button
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 976
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: 69}
+        - {x: 97, y: 86}
+        - {x: 82, y: 100}
+        - {x: 69, y: 105}
+        - {x: -69, y: 105}
+        - {x: -86, y: 97}
+        - {x: -100, y: 82}
+        - {x: -105, y: 69}
+        - {x: -105, y: -68}
+        - {x: -100, y: -82}
+        - {x: -83, y: -101}
+        - {x: -73, y: -105}
+        - {x: 73, y: -105}
+        - {x: 82, y: -100}
+        - {x: 101, y: -83}
+        - {x: 105, y: -69}
+    - name: Twitter Button
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1087
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Audio Button
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1087
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: More Button
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1087
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Facecook Button
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1087
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Shop Button
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1087
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Share Button
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 940
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Main Menu Button
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 940
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Seeting Button
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 940
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: OK Button
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 940
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Help Button
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 940
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Play Small Button
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Pause Button
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Restart Button
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Close Button
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Quit Game Button
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 645
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: About Button
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 638
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Play Video Add Button
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 638
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Paused
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1557
+        width: 281
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140.5, y: 39.5}
+        - {x: -140.5, y: -39.5}
+        - {x: 134.5, y: -39.5}
+        - {x: 140.5, y: -14.5}
+        - {x: 140.5, y: 38.5}
+        - {x: 139.5, y: 39.5}
+    - name: You Lose
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1460
+        width: 280
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: 39}
+        - {x: -120, y: 38}
+        - {x: -140, y: 24}
+        - {x: -140, y: -9}
+        - {x: -134, y: -39}
+        - {x: 128, y: -39}
+        - {x: 140, y: -7}
+        - {x: 140, y: 28}
+        - {x: 109, y: 39}
+    - name: Live Panel
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1260
+        width: 300
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 54.5}
+        - {x: -136, y: 54.5}
+        - {x: -150, y: 39.5}
+        - {x: -150, y: -34.5}
+        - {x: -146, y: -44.5}
+        - {x: -131, y: -54.5}
+        - {x: 132, y: -54.5}
+        - {x: 150, y: -43.5}
+        - {x: 150, y: 25.5}
+        - {x: 124, y: 45.5}
+    - name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 784
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 27.5}
+        - {x: 4.5, y: 60.5}
+        - {x: -31.5, y: 60.5}
+        - {x: -38.5, y: 17.5}
+        - {x: -38.5, y: -10.5}
+        - {x: -26.5, y: -8.5}
+        - {x: 5.5, y: -60.5}
+        - {x: 24.5, y: -60.5}
+        - {x: 33.5, y: -58.5}
+        - {x: 37.5, y: -50.5}
+        - {x: 35.5, y: -42.5}
+        - {x: 38.5, y: -12.5}
+    - name: Shop Button In Panel
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 638
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Button Deactive
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 632
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.5, y: 65.5}
+        - {x: -65.5, y: 65.5}
+        - {x: -65.5, y: -56.5}
+        - {x: -54.5, y: -64.5}
+        - {x: -48.5, y: -65.5}
+        - {x: 51.5, y: -65.5}
+        - {x: 65.5, y: -54.5}
+        - {x: 65.5, y: 50.5}
+      - - {x: -37.5, y: -49.5}
+        - {x: 50.5, y: 33.5}
+        - {x: 51.5, y: -29.5}
+        - {x: 30.5, y: -52.5}
+      - - {x: -50.5, y: -34.5}
+        - {x: -49.5, y: -37.5}
+    - name: Loading
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1368
+        width: 280
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 39}
+        - {x: -78, y: 39}
+        - {x: -139, y: 28}
+        - {x: -140, y: 26}
+        - {x: -140, y: -13}
+        - {x: -134, y: -39}
+        - {x: 136, y: -39}
+        - {x: 140, y: -27}
+        - {x: 140, y: 27}
+        - {x: 135, y: 37}
+    - name: Loading Base
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1524
+        width: 647
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Loading Progress
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1549
+        width: 645
+        height: 17
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Handle
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1485
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Achievements Button
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 491
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Twitter Life Earn Button
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 427
+        width: 381
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 190.5, y: 32.5}
+        - {x: 187.5, y: 39.5}
+        - {x: 179.5, y: 49.5}
+        - {x: 169.5, y: 54.5}
+        - {x: -171.5, y: 54.5}
+        - {x: -185.5, y: 44.5}
+        - {x: -190.5, y: 35.5}
+        - {x: -190.5, y: -34.5}
+        - {x: -186.5, y: -44.5}
+        - {x: -171.5, y: -54.5}
+        - {x: 169.5, y: -54.5}
+        - {x: 175.5, y: -52.5}
+        - {x: 188.5, y: -39.5}
+        - {x: 190.5, y: -33.5}
+    - name: FB Life Earn Button
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 280
+        width: 381
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 190.5, y: 32.5}
+        - {x: 187.5, y: 39.5}
+        - {x: 179.5, y: 49.5}
+        - {x: 169.5, y: 54.5}
+        - {x: -171.5, y: 54.5}
+        - {x: -185.5, y: 44.5}
+        - {x: -190.5, y: 35.5}
+        - {x: -190.5, y: -34.5}
+        - {x: -186.5, y: -44.5}
+        - {x: -171.5, y: -54.5}
+        - {x: 169.5, y: -54.5}
+        - {x: 175.5, y: -52.5}
+        - {x: 188.5, y: -39.5}
+        - {x: 190.5, y: -33.5}
+    - name: Video Add Life Earn Button
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 131
+        width: 381
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 190.5, y: 32.5}
+        - {x: 187.5, y: 39.5}
+        - {x: 179.5, y: 49.5}
+        - {x: 169.5, y: 54.5}
+        - {x: -171.5, y: 54.5}
+        - {x: -185.5, y: 44.5}
+        - {x: -190.5, y: 35.5}
+        - {x: -190.5, y: -34.5}
+        - {x: -186.5, y: -44.5}
+        - {x: -171.5, y: -54.5}
+        - {x: 169.5, y: -54.5}
+        - {x: 175.5, y: -52.5}
+        - {x: 188.5, y: -39.5}
+        - {x: 190.5, y: -33.5}
+    - name: Leaderboard Button
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 491
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Free Life Title
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1504
+        width: 424
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 212, y: 30.5}
+        - {x: 121, y: 53.5}
+        - {x: -73, y: 53.5}
+        - {x: -160, y: 39.5}
+        - {x: -212, y: 20.5}
+        - {x: -212, y: -45.5}
+        - {x: -208, y: -53.5}
+        - {x: -89, y: -53.5}
+        - {x: -17, y: -28.5}
+        - {x: 71, y: -53.5}
+        - {x: 212, y: -53.5}
+    - name: Free Button
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 491
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Heart
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 11
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 54.5}
+        - {x: -54.5, y: 46.5}
+        - {x: -54.5, y: -54.5}
+        - {x: 43.5, y: -54.5}
+        - {x: 54.5, y: -52.5}
+        - {x: 54.5, y: 42.5}
+        - {x: 47.5, y: 54.5}
+    - name: White Box
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 105
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 30}
+        - {x: -30, y: -30}
+        - {x: 30, y: -30}
+        - {x: 30, y: 30}
+    - name: Level Button On
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 11
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 51}
+        - {x: -51, y: -48}
+        - {x: -46, y: -51}
+        - {x: 45, y: -51}
+        - {x: 51, y: -43}
+        - {x: 51, y: 51}
+    - name: Level Button Off
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 11
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 52}
+        - {x: -52, y: 47}
+        - {x: -52, y: -51}
+        - {x: -47, y: -52}
+        - {x: 43, y: -52}
+        - {x: 52, y: -45}
+        - {x: 52, y: 42}
+        - {x: 45, y: 52}
+    - name: Level Button Star
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 80
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Check Mark
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 260
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 25}
+        - {x: 10, y: 18}
+        - {x: 1, y: 6}
+        - {x: -13, y: 4}
+        - {x: -24, y: -2}
+        - {x: -25, y: -3}
+        - {x: -25, y: -11}
+        - {x: -8, y: -25}
+        - {x: 0, y: -25}
+        - {x: 25, y: 3}
+        - {x: 25, y: 25}
+    - name: Fail Mark
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 191
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: Panel Up
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1048
+        width: 768
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 381, y: 71.5}
+        - {x: 378, y: 73.5}
+        - {x: 378, y: 74.5}
+        - {x: 372, y: 81.5}
+        - {x: 359, y: 87.5}
+        - {x: -360, y: 87.5}
+        - {x: -369, y: 83.5}
+        - {x: -377, y: 75.5}
+        - {x: -377, y: 74.5}
+        - {x: -382, y: 68.5}
+        - {x: -383, y: 64.5}
+        - {x: -384, y: 63.5}
+        - {x: -384, y: -87.5}
+        - {x: 384, y: -87.5}
+        - {x: 384, y: 64.5}
+    - name: Panel
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 12
+        width: 770
+        height: 1007
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 385, y: 487.5}
+        - {x: 375, y: 496.5}
+        - {x: 374, y: 496.5}
+        - {x: 372, y: 498.5}
+        - {x: 371, y: 498.5}
+        - {x: 367, y: 501.5}
+        - {x: 365, y: 501.5}
+        - {x: 361, y: 503.5}
+        - {x: -358, y: 503.5}
+        - {x: -364, y: 502.5}
+        - {x: -373, y: 498.5}
+        - {x: -375, y: 496.5}
+        - {x: -385, y: 487.5}
+        - {x: -385, y: -499.5}
+        - {x: -381, y: -502.5}
+        - {x: -381, y: -503.5}
+        - {x: 381, y: -503.5}
+        - {x: 383, y: -501.5}
+        - {x: 383, y: -500.5}
+        - {x: 385, y: -498.5}
+    - name: Button World Back
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1687
+        width: 366
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 183, y: -158.5}
+        - {x: 183, y: 157.5}
+        - {x: 182, y: 161.5}
+        - {x: 174, y: 170.5}
+        - {x: 173, y: 170.5}
+        - {x: 171, y: 173.5}
+        - {x: 168, y: 174.5}
+        - {x: -168, y: 174.5}
+        - {x: -171, y: 173.5}
+        - {x: -179, y: 165.5}
+        - {x: -179, y: 164.5}
+        - {x: -182, y: 161.5}
+        - {x: -183, y: 157.5}
+        - {x: -183, y: -157.5}
+        - {x: -182, y: -161.5}
+        - {x: -174, y: -170.5}
+        - {x: -173, y: -170.5}
+        - {x: -171, y: -173.5}
+        - {x: -168, y: -174.5}
+        - {x: 168, y: -174.5}
+        - {x: 171, y: -173.5}
+        - {x: 173, y: -171.5}
+        - {x: 180, y: -165.5}
+    - name: Text Back
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1944
+        width: 247
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113.5, y: 46}
+        - {x: -122.5, y: 46}
+        - {x: -123.5, y: 42}
+        - {x: -123.5, y: -40}
+        - {x: -114.5, y: -46}
+        - {x: 109.5, y: -46}
+        - {x: 115.5, y: -44}
+        - {x: 123.5, y: -32}
+        - {x: 123.5, y: 32}
+    - name: Level Button On Empty
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 53
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Google Play Button
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 205
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -57}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+        - {x: 51, y: 64}
+    - name: Star Big
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 19
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 21}
+        - {x: -21.5, y: 13}
+        - {x: -21.5, y: -12}
+        - {x: -19.5, y: -21}
+        - {x: 16.5, y: -21}
+        - {x: 21.5, y: -6}
+        - {x: 21.5, y: 13}
+        - {x: 6.5, y: 21}
+    - name: Stars Panel
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1241
+        width: 335
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167.5, y: -66.5}
+        - {x: 167.5, y: 68.5}
+        - {x: 159.5, y: 80.5}
+        - {x: 150.5, y: 88.5}
+        - {x: 145.5, y: 92.5}
+        - {x: 138.5, y: 95.5}
+        - {x: 135.5, y: 96.5}
+        - {x: -139.5, y: 96.5}
+        - {x: -151.5, y: 88.5}
+        - {x: -159.5, y: 79.5}
+        - {x: -164.5, y: 74.5}
+        - {x: -167.5, y: 66.5}
+        - {x: -167.5, y: -68.5}
+        - {x: -159.5, y: -80.5}
+        - {x: -150.5, y: -88.5}
+        - {x: -145.5, y: -92.5}
+        - {x: -138.5, y: -95.5}
+        - {x: -135.5, y: -96.5}
+        - {x: 139.5, y: -96.5}
+        - {x: 151.5, y: -88.5}
+        - {x: 164.5, y: -74.5}
+    - name: Star Off Biggest
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1277
+        width: 106
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 19.5}
+        - {x: 4, y: 51.5}
+        - {x: -21, y: 51.5}
+        - {x: -53, y: 21.5}
+        - {x: -53, y: -24.5}
+        - {x: -37, y: -51.5}
+        - {x: 43, y: -51.5}
+        - {x: 53, y: -48.5}
+        - {x: 53, y: 17.5}
+        - {x: 51, y: 17.5}
+    - name: Star On Biggest
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1277
+        width: 106
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 51.5}
+        - {x: -53, y: 38.5}
+        - {x: -53, y: -51.5}
+        - {x: 43, y: -51.5}
+        - {x: 53, y: 3.5}
+        - {x: 53, y: 25.5}
+        - {x: 7, y: 51.5}
+    - name: Birds On Game Panel
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1379
+        width: 428
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 203, y: 41}
+        - {x: 193, y: 46}
+        - {x: -195, y: 46}
+        - {x: -209, y: 36}
+        - {x: -214, y: 27}
+        - {x: -214, y: -26}
+        - {x: -210, y: -36}
+        - {x: -195, y: -46}
+        - {x: 193, y: -46}
+        - {x: 204, y: -42}
+        - {x: 214, y: -27}
+        - {x: 214, y: 27}
+    - name: Target Birds On Game Panel
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1380
+        width: 428
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 203, y: 41}
+        - {x: 193, y: 46}
+        - {x: -195, y: 46}
+        - {x: -209, y: 36}
+        - {x: -214, y: 27}
+        - {x: -214, y: -26}
+        - {x: -210, y: -36}
+        - {x: -195, y: -46}
+        - {x: 193, y: -46}
+        - {x: 204, y: -42}
+        - {x: 214, y: -27}
+        - {x: 214, y: 27}
+    - name: Target Birds Panel 1
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1938
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 46}
+        - {x: -51, y: 43}
+        - {x: -51, y: -44}
+        - {x: -42, y: -46}
+        - {x: 44, y: -46}
+        - {x: 51, y: -39}
+        - {x: 51, y: 41}
+        - {x: 48, y: 46}
+    - name: Come Birds Panel 1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1938
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 46}
+        - {x: -51, y: 43}
+        - {x: -51, y: -44}
+        - {x: -42, y: -46}
+        - {x: 44, y: -46}
+        - {x: 51, y: -39}
+        - {x: 51, y: 41}
+        - {x: 48, y: 46}
+    - name: Target Birds Panel 2
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1938
+        width: 165
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 46}
+        - {x: -82.5, y: -31}
+        - {x: -81.5, y: -39}
+        - {x: -77.5, y: -46}
+        - {x: 82.5, y: -46}
+        - {x: 82.5, y: 46}
+    - name: Come Birds Panel 2
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1938
+        width: 165
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 46}
+        - {x: -82.5, y: -31}
+        - {x: -81.5, y: -39}
+        - {x: -77.5, y: -46}
+        - {x: 82.5, y: -46}
+        - {x: 82.5, y: 46}
+    - name: Target Birds Panel 3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1819
+        width: 228
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106, y: 46}
+        - {x: -114, y: 35}
+        - {x: -114, y: -33}
+        - {x: -113, y: -39}
+        - {x: -101, y: -46}
+        - {x: 102, y: -46}
+        - {x: 114, y: -40}
+        - {x: 114, y: 46}
+    - name: Target Birds Panel 4
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1699
+        width: 292
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136, y: 42}
+        - {x: 125, y: 46}
+        - {x: -127, y: 46}
+        - {x: -141, y: 36}
+        - {x: -146, y: 30}
+        - {x: -146, y: -31}
+        - {x: -145, y: -39}
+        - {x: -128, y: -46}
+        - {x: 145, y: -46}
+        - {x: 146, y: -43}
+        - {x: 146, y: 36}
+    - name: Target Birds Panel 5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1574
+        width: 366
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 173, y: 42}
+        - {x: 162, y: 46}
+        - {x: -164, y: 46}
+        - {x: -178, y: 36}
+        - {x: -183, y: 27}
+        - {x: -183, y: -26}
+        - {x: -179, y: -36}
+        - {x: -164, y: -46}
+        - {x: 162, y: -46}
+        - {x: 173, y: -42}
+        - {x: 183, y: -27}
+        - {x: 183, y: 27}
+    - name: Come Birds Panel 3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1819
+        width: 228
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106, y: 46}
+        - {x: -114, y: 35}
+        - {x: -114, y: -33}
+        - {x: -113, y: -39}
+        - {x: -101, y: -46}
+        - {x: 102, y: -46}
+        - {x: 114, y: -40}
+        - {x: 114, y: 46}
+    - name: Come Birds Panel 4
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1699
+        width: 292
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136, y: 42}
+        - {x: 125, y: 46}
+        - {x: -127, y: 46}
+        - {x: -141, y: 36}
+        - {x: -146, y: 30}
+        - {x: -146, y: -31}
+        - {x: -145, y: -39}
+        - {x: -128, y: -46}
+        - {x: 145, y: -46}
+        - {x: 146, y: -43}
+        - {x: 146, y: 36}
+    - name: Come Birds Panel 5
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1574
+        width: 366
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 173, y: 42}
+        - {x: 162, y: 46}
+        - {x: -164, y: 46}
+        - {x: -178, y: 36}
+        - {x: -183, y: 27}
+        - {x: -183, y: -26}
+        - {x: -179, y: -36}
+        - {x: -164, y: -46}
+        - {x: 162, y: -46}
+        - {x: 173, y: -42}
+        - {x: 183, y: -27}
+        - {x: 183, y: 27}
+    - name: Survival Button
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1238
+        width: 381
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 190.5, y: 32.5}
+        - {x: 187.5, y: 39.5}
+        - {x: 179.5, y: 49.5}
+        - {x: 169.5, y: 54.5}
+        - {x: -171.5, y: 54.5}
+        - {x: -185.5, y: 44.5}
+        - {x: -190.5, y: 35.5}
+        - {x: -190.5, y: -34.5}
+        - {x: -186.5, y: -44.5}
+        - {x: -171.5, y: -54.5}
+        - {x: 169.5, y: -54.5}
+        - {x: 175.5, y: -52.5}
+        - {x: 188.5, y: -39.5}
+        - {x: 190.5, y: -33.5}
+    - name: Red Plus
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

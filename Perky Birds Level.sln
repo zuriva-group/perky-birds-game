@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perky Birds Level.CSharp.Plugins", "Perky Birds Level.CSharp.Plugins.csproj", "{3CFDFD0F-AB18-1765-07E2-3F76172A95DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perky Birds Level.CSharp", "Perky Birds Level.CSharp.csproj", "{3B256245-8D7A-CEB2-E998-0EF1315FA478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perky Birds Level.CSharp.Editor", "Perky Birds Level.CSharp.Editor.csproj", "{66C374A2-0A10-D540-C020-E128F94872F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CFDFD0F-AB18-1765-07E2-3F76172A95DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFDFD0F-AB18-1765-07E2-3F76172A95DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFDFD0F-AB18-1765-07E2-3F76172A95DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFDFD0F-AB18-1765-07E2-3F76172A95DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B256245-8D7A-CEB2-E998-0EF1315FA478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B256245-8D7A-CEB2-E998-0EF1315FA478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B256245-8D7A-CEB2-E998-0EF1315FA478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B256245-8D7A-CEB2-E998-0EF1315FA478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C374A2-0A10-D540-C020-E128F94872F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C374A2-0A10-D540-C020-E128F94872F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C374A2-0A10-D540-C020-E128F94872F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C374A2-0A10-D540-C020-E128F94872F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+  <Items>
+
+    <Item Id="0">
+      <ScoreToPass>3</ScoreToPass>
+
+      <BirdMaxTurn>10</BirdMaxTurn>
+      <DoublePipeProbability>0</DoublePipeProbability>
+
+      <Pipe1ColorTypeProbability>0</Pipe1ColorTypeProbability>
+      <Pipe1LifeTypeProbability>0</Pipe1LifeTypeProbability>
+      <Pipe1Speed>0</Pipe1Speed>
+      <Pipe1MoveRange>0</Pipe1MoveRange>
+
+      <Pipe2ColorTypeProbability>0</Pipe2ColorTypeProbability>
+      <Pipe2LifeTypeProbability>0</Pipe2LifeTypeProbability>
+      <Pipe2Speed>0</Pipe2Speed>
+      <Pipe2MoveRange>0</Pipe2MoveRange>
+
+    </Item>
+
+    <Item Id="1">
+      <ScoreToPass>10</ScoreToPass>
+
+      <BirdMaxTurn>8</BirdMaxTurn>
+      <DoublePipeProbability>0</DoublePipeProbability>
+
+      <Pipe1NormalTypeProbability>90</Pipe1NormalTypeProbability>
+      <Pipe1ColorTypeProbability>10</Pipe1ColorTypeProbability>
+      <Pipe1LifeTypeProbability>30</Pipe1LifeTypeProbability>
+      <Pipe1Speed>0</Pipe1Speed>
+      <Pipe2MoveRange>0</Pipe2MoveRange>
+
+      <Pipe2NormalTypeProbability>90</Pipe2NormalTypeProbability>
+      <Pipe2ColorTypeProbability>10</Pipe2ColorTypeProbability>
+      <Pipe2LifeTypeProbability>10</Pipe2LifeTypeProbability>
+      <Pipe2Speed>0</Pipe2Speed>
+      <Pipe2MoveRange>0</Pipe2MoveRange>
+
+    </Item>
+    <Item Id="2">
+      <ScoreToPass>20</ScoreToPass>
+
+      <BirdMaxTurn>8</BirdMaxTurn>
+      <DoublePipeProbability>0</DoublePipeProbability>
+
+      <Pipe1NormalTypeProbability>90</Pipe1NormalTypeProbability>
+      <Pipe1ColorTypeProbability>30</Pipe1ColorTypeProbability>
+      <Pipe1LifeTypeProbability>10</Pipe1LifeTypeProbability>
+      <Pipe1Speed>0</Pipe1Speed>
+      <Pipe2MoveRange>0</Pipe2MoveRange>
+
+      <Pipe2NormalTypeProbability>90</Pipe2NormalTypeProbability>
+      <Pipe2ColorTypeProbability>10</Pipe2ColorTypeProbability>
+      <Pipe2LifeTypeProbability>10</Pipe2LifeTypeProbability>
+      <Pipe2Speed>0</Pipe2Speed>
+      <Pipe2MoveRange>0</Pipe2MoveRange>
+
+    </Item>
+    <Item Id="3">
+      <ScoreToPass>50</ScoreToPass>
+
+      <BirdMaxTurn>5</BirdMaxTurn>
+      <DoublePipeProbability>20</DoublePipeProbability>
+
+      <Pipe1NormalTypeProbability>70</Pipe1NormalTypeProbability>
+      <Pipe1ColorTypeProbability>10</Pipe1ColorTypeProbability>
+      <Pipe1LifeTypeProbability>20</Pipe1LifeTypeProbability>
+      <Pipe1Speed>0</Pipe1Speed>
+      <Pipe2MoveRange>0</Pipe2MoveRange>
+
+      <Pipe2NormalTypeProbability>90</Pipe2NormalTypeProbability>
+      <Pipe2ColorTypeProbability>90</Pipe2ColorTypeProbability>
+      <Pipe2LifeTypeProbability>90</Pipe2LifeTypeProbability>
+      <Pipe2Speed>1</Pipe2Speed>
+      <Pipe2MoveRange>1</Pipe2MoveRange>
+
+    </Item>
+
+
+    <!-- LAST -->
+    <Item Id="4">
+      <ScoreToPass>10000</ScoreToPass>
+
+      <BirdMaxTurn>4</BirdMaxTurn>
+      <DoublePipeProbability>80</DoublePipeProbability>
+
+      <Pipe1NormalTypeProbability>80</Pipe1NormalTypeProbability>
+      <Pipe1ColorTypeProbability>10</Pipe1ColorTypeProbability>
+      <Pipe1LifeTypeProbability>40</Pipe1LifeTypeProbability>
+      <Pipe1Speed>0</Pipe1Speed>
+      <Pipe2MoveRange>0</Pipe2MoveRange>
+
+      <Pipe2NormalTypeProbability>90</Pipe2NormalTypeProbability>
+      <Pipe2ColorTypeProbability>70</Pipe2ColorTypeProbability>
+      <Pipe2LifeTypeProbability>80</Pipe2LifeTypeProbability>
+      <Pipe2Speed>1</Pipe2Speed>
+      <Pipe2MoveRange>1</Pipe2MoveRange>
+
+    </Item>
+ 
+  </Items>
+</ItemCollection>

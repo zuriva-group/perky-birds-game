@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 64aeb777a9fabfa41a64824a2de3d529
+timeCreated: 1468241733
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Help Sprite Sheet_0
+    21300002: Help Sprite Sheet_1
+    21300004: Help Sprite Sheet_2
+    21300006: Help Sprite Sheet_3
+    21300008: Help Sprite Sheet_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Help Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 500
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 250, y: -129}
+        - {x: 250, y: 131}
+        - {x: 241, y: 140}
+        - {x: -239, y: 140}
+        - {x: -242, y: 137}
+        - {x: -245, y: 133}
+        - {x: -245, y: 132}
+        - {x: -250, y: 126}
+        - {x: -250, y: -128}
+        - {x: -247, y: -131}
+        - {x: -247, y: -132}
+        - {x: -240, y: -139}
+        - {x: -240, y: -140}
+        - {x: 242, y: -140}
+        - {x: 242, y: -139}
+        - {x: 246, y: -135}
+        - {x: 246, y: -134}
+    - name: Help Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 744
+        width: 500
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 249, y: 133}
+        - {x: 242, y: 140}
+        - {x: -236, y: 140}
+        - {x: -238, y: 138}
+        - {x: -238, y: 137}
+        - {x: -247, y: 128}
+        - {x: -247, y: 127}
+        - {x: -250, y: 124}
+        - {x: -250, y: -131}
+        - {x: -249, y: -132}
+        - {x: -242, y: -138}
+        - {x: -241, y: -138}
+        - {x: -239, y: -140}
+        - {x: 245, y: -140}
+        - {x: 250, y: -135}
+        - {x: 250, y: 133}
+    - name: Help Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 500
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 250, y: 129}
+        - {x: 249, y: 129}
+        - {x: 238, y: 140}
+        - {x: -245, y: 140}
+        - {x: -245, y: 139}
+        - {x: -250, y: 134}
+        - {x: -250, y: -133}
+        - {x: -243, y: -140}
+        - {x: 241, y: -140}
+        - {x: 246, y: -135}
+        - {x: 247, y: -135}
+        - {x: 250, y: -132}
+    - name: Help Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 458
+        width: 500
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 245, y: -133}
+        - {x: 250, y: -127}
+        - {x: 250, y: 131}
+        - {x: 247, y: 134}
+        - {x: 247, y: 135}
+        - {x: 243, y: 139}
+        - {x: 243, y: 140}
+        - {x: -240, y: 140}
+        - {x: -240, y: 139}
+        - {x: -242, y: 137}
+        - {x: -242, y: 136}
+        - {x: -246, y: 132}
+        - {x: -248, y: 128}
+        - {x: -250, y: 125}
+        - {x: -250, y: -126}
+        - {x: -245, y: -131}
+        - {x: -245, y: -132}
+        - {x: -240, y: -137}
+        - {x: -240, y: -138}
+        - {x: -238, y: -140}
+        - {x: 240, y: -140}
+        - {x: 241, y: -139}
+        - {x: 241, y: -138}
+        - {x: 245, y: -134}
+    - name: Help Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 500
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 247, y: -133}
+        - {x: 250, y: -130}
+        - {x: 250, y: 130}
+        - {x: 249, y: 130}
+        - {x: 238, y: 140}
+        - {x: -240, y: 140}
+        - {x: -244, y: 136}
+        - {x: -244, y: 135}
+        - {x: -250, y: 129}
+        - {x: -250, y: -128}
+        - {x: -247, y: -131}
+        - {x: -246, y: -131}
+        - {x: -237, y: -140}
+        - {x: 242, y: -140}
+        - {x: 244, y: -138}
+        - {x: 244, y: -137}
+        - {x: 247, y: -134}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
